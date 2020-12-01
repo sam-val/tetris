@@ -1,6 +1,6 @@
-# tetris
+## Basic Tetris Game
 
-Basic tetris game
+There is really nothing more than just a tetris game. An rather simple implementation.
 
 ![image_1](screenshots/screen_shot1.png)
 
